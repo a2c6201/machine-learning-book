@@ -1,12 +1,23 @@
 {
   "cSpell.words": [
     "astype",
+    "cifar",
+    "cifer",
+    "cuda",
     "dtype",
     "markersize",
+    "mlxtend",
+    "mnist",
     "optim",
     "savefig",
+    "torchvision",
+    "tqdm",
     "xaxis",
     "yaxis",
     "ylabel"
-  ]
+  ],
+  "[python]": {
+    "editor.defaultFormatter": "ms-python.autopep8"
+  },
+  "python.formatting.provider": "none"
 }
