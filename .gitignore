@@ -1,3 +1,6 @@
+# ファイルが大きいため画像も消しておく
+*.png
+
 # Datasets and temporary PyTorch files
 ch12/MNIST
 ch12/celeba
